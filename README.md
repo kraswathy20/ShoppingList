@@ -1,4 +1,5 @@
 # React + Vite
+This is a simple shopping list app that is used to list the items added from a React Form Controlled Component. This project mainly focuses on Controlled Component in React, working with multiple inputs, transferring function as State from Parent Component to the Child Component and transferring data as Props from Child to Parent Component.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
